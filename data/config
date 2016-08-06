@@ -1,0 +1,11 @@
+;text file with a program
+filename = program.txt
+
+;starting address
+ck = 10
+
+;initial value in A register
+a = 1
+
+;a limit on processor ticks
+looplimit = 1000
